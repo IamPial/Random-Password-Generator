@@ -49,15 +49,15 @@ It allows users to generate strong and unpredictable passwords with a single cli
    ```bash
    git clone https://github.com/IamPial/random-password-generator.git
 
-    Navigate to the project directory:
+2. Navigate to the project directory:
 
-cd random-password-generator
+       cd random-password-generator
 
-Open index.html in your browser:
+3. Open index.html in your browser:
 
-    open index.html
+       open index.html
 
-🤝 Contributing
+** Contributing **
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements or new features.
 📄 License
